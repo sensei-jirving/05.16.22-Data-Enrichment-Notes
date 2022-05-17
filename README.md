@@ -14,4 +14,4 @@ Lectures notes and resources for Data Enrichment stack starting 05/16/22
 
 
 ### Reference Material
-- [Local Workflow Slides](https://docs.google.com/presentation/d/14YyP3vtZ-CHOa6f-hAQWIO4H4_xlR8yoyvXmE_XzLlE/edit?usp=sharing)
+- [Local Workflow Slides](https://docs.google.com/presentation/d/14YyP3vtZ-CHOa6f-hAQWIO4H4_xlR8yoyvXmE_XzLlE/edit?usp=sharing) 
